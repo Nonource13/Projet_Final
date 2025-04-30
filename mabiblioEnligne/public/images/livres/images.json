@@ -1,0 +1,42 @@
+[
+    {
+        "filename": "cuisine_francaise.jpg",
+        "titre": "Cuisine Fran\u00e7aise Traditionnelle",
+        "auteur": "Jean Martin"
+    },
+    {
+        "filename": "patisserie_facile.jpg",
+        "titre": "P\u00e2tisserie Facile",
+        "auteur": "Marie Dupont"
+    },
+    {
+        "filename": "desserts_gourmands.jpg",
+        "titre": "Desserts Gourmands",
+        "auteur": "Pierre Durand"
+    },
+    {
+        "filename": "cuisine_asiatique.jpg",
+        "titre": "Secrets de la Cuisine Asiatique",
+        "auteur": "Sophie Chen"
+    },
+    {
+        "filename": "cuisine_vegetarienne.jpg",
+        "titre": "Cuisine V\u00e9g\u00e9tarienne",
+        "auteur": "Lucie Verte"
+    },
+    {
+        "filename": "cuisine_rapide.jpg",
+        "titre": "Repas en 30 Minutes",
+        "auteur": "Thomas Rapide"
+    },
+    {
+        "filename": "soupes_monde.jpg",
+        "titre": "Soupes du Monde",
+        "auteur": "Claire Dubois"
+    },
+    {
+        "filename": "cuisine_italienne.jpg",
+        "titre": "Cuisine Italienne Authentique",
+        "auteur": "Marco Rossi"
+    }
+]
